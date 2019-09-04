@@ -1,0 +1,71 @@
+h1 {
+	font-size: 40px;
+	color:white;
+	text-align: center;
+	padding: 40px;
+	background-color: black;
+}
+
+.strong {
+}
+
+div {
+/*	border: 0.5px solid black;
+*/	padding: 5px;
+	margin-bottom: 20px;
+	white-space: normal;
+	line-height: 130%;
+}
+
+div #b {
+	margin: 5px;
+	display: flex;
+	justify-content:center;
+
+}
+
+div #b-left{
+	float: left;
+	width: 69%;
+	margin-right: 20px;
+}
+
+div #b-right{
+	float: right;
+	width: 24%;
+}
+
+.contacts {
+	padding-left: 0;
+	list-style: none;
+	overflow: hidden;
+	word-break:break-all;
+}
+
+ul,li {
+	white-space: normal;
+}
+
+img{
+	float: right;
+	height: 8%
+}
+
+div #c {
+	margin: 5px;
+	display: flex;
+	justify-content:center;
+}
+div #c-left{
+	float: left;
+	width: 69%;
+	margin-right: 20px;
+
+
+}
+
+div #c-right{
+	float: right;
+		width: 24%;
+
+}
